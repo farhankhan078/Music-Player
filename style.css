@@ -91,7 +91,8 @@ body{
     margin: auto;
     overflow: hidden;
     margin-top: 15px;
-    border-radius: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
     
 }
 
