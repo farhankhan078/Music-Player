@@ -7,6 +7,6 @@ About my Task.
 Here I created a music player in HTML, CSS, and JavaScript. In the music player, you can change the song as you wish, you can see the music list as well as and choose according to your needs. 
 Also, you want to repeat the current song you can do this.
 
-you can check my project on your web <a href="https://farhankhan078.github.io/Coding-Raja-Technology-Internship-Music-Player/"> CLICK ME</a> 
+you can check my project on your web <a href="https://farhankhan078.github.io/Music-Player/"> CLICK ME</a> 
 
 Thank you so much... Happy Learning
