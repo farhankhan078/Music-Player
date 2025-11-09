@@ -1,5 +1,11 @@
 let allMusic = [
     {
+        name: "DEPARTURE",
+        artist: "RAJA KHAN",
+        img: "music-01",
+        src: "music-01"
+    },
+    {
         name: "Sari me Patola",
         artist: "Ajay Hooda",
         img: "music-1",
